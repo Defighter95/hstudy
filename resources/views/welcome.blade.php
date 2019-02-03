@@ -93,6 +93,7 @@
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
+                <div id="example"></div>
         </div>
     </body>
 </html>
